@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NewsAgency>
+<category id="1" name="Political">
+<news id="1" name="The meeting between Zelensky and Biden was postponed" publishingHouse="Segodnya"/>
+</category>
+<category id="2" name="Sport">
+<news id="2" name="Messi broke Pele's record for goals for the national team" publishingHouse="KOF"/>
+<news id="3" name="Japan has refused to host the Club World Cup because of the coronavirus" publishingHouse="KOF"/>
+</category>
+</NewsAgency>
